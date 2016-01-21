@@ -1,0 +1,8 @@
+{
+  "name": "gulp",
+  "version": "0.0.1",
+  "description": "Esqueleto base para la realizacion de aplicaciones web utlizando el stack MEAN",
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
